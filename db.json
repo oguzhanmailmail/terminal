@@ -1,0 +1,111 @@
+[{
+	"overview": [{
+			"id": 1,
+			"open": "5.3251",
+			"low": "4.8274",
+			"close": "5.3251",
+			"change": "3.22%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "THYAO",
+			"name": "TURK HAVA YOLLARI A.O."
+		},
+		{
+			"id": 2,
+			"open": "2.3121",
+			"low": "5.8274",
+			"close": "12.1251",
+			"change": "-1.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TCELL",
+			"name": "TURKCELL ILETISIM HIZMETLERI"
+		},
+		{
+			"id": 3,
+			"open": "66.2351",
+			"low": "4.8274",
+			"close": "4.1651",
+			"change": "-87.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TTKOM",
+			"name": "TURK TELEKOM"
+		},
+		{
+			"id": 4,
+			"open": "5.3251",
+			"low": "4.8274",
+			"close": "5.3251",
+			"change": "3.22%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "THYAO1",
+			"name": "TURK HAVA YOLLARI A.O."
+		},
+		{
+			"id": 5,
+			"open": "2.3121",
+			"low": "5.8274",
+			"close": "12.1251",
+			"change": "-1.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TCELL1",
+			"name": "TURKCELL ILETISIM HIZMETLERI"
+		},
+		{
+			"id": 6,
+			"open": "66.2351",
+			"low": "4.8274",
+			"close": "4.1651",
+			"change": "-87.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TTKOM1",
+			"name": "TURK TELEKOM"
+		},
+		{
+			"id": 7,
+			"open": "5.3251",
+			"low": "4.8274",
+			"close": "5.3251",
+			"change": "3.22%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "THYAO2",
+			"name": "TURK HAVA YOLLARI A.O."
+		},
+		{
+			"id": 8,
+			"open": "2.3121",
+			"low": "5.8274",
+			"close": "12.1251",
+			"change": "-1.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TCELL2",
+			"name": "TURKCELL ILETISIM HIZMETLERI"
+		},
+		{
+			"id": 9,
+			"open": "66.2351",
+			"low": "4.8274",
+			"close": "4.1651",
+			"change": "-87.12%",
+			"date": "2000-01-04",
+			"volume": "3918426390.44",
+			"high": "5.3749",
+			"symbol": "TTKOM2",
+			"name": "TURK TELEKOM"
+		}
+	]
+}]
